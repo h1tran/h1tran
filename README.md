@@ -6,6 +6,8 @@
   <img src="images/Henry_Tran_Banner.png" />
 </a>
 
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/h98tran/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -23,6 +25,4 @@
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1tran&layout=compact&theme=vue" />
   </p>
 </a>
-
----
 
