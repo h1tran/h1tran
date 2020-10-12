@@ -2,7 +2,7 @@
 **h1tran/h1tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="images/Henry_Tran_Banner_v2.png" />
+<img src="images/Henry_Tran_Banner.png" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center" style="margin:0">
