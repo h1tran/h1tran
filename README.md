@@ -2,8 +2,6 @@
 **h1tran/h1tran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<br></br>
-
 <a href="https://github.com/h1tran?tab=repositories">
   <img src="images/Henry_Tran_Banner.png" />
 </a>
