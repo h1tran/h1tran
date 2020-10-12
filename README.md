@@ -6,7 +6,14 @@
   <img src="images/Henry_Tran_Banner.png" />
 </a>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/h98tran/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:h98.tran@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center">
