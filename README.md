@@ -9,13 +9,13 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/h98tran/">
+  <a href="https://www.linkedin.com/in/h98tran/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:h98.tran@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1CYZ9B0yQSdgEbrUpNlf61En-HPrGWDBz/view">
+  <a href="https://drive.google.com/file/d/1CYZ9B0yQSdgEbrUpNlf61En-HPrGWDBz/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
   </a>
 </p>
