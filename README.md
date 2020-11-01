@@ -23,9 +23,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <p align="center">
     <img alt="Henry Tran Github Stats" height="140"
-         src="https://github-readme-stats.vercel.app/api?username=h1tran&show_icons=true&theme=great-gatsby&include_all_commits=true&hide=issues" />
+         src="https://github-readme-stats.vercel.app/api?username=h1tran&show_icons=true&theme=vue&include_all_commits=true&hide=issues" />
     <img alt="Henry Tran Language Stats" height="140"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1tran&layout=compact&theme=great-gatsby" />
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1tran&layout=compact&theme=vue" />
   </p>
 </a>
 
