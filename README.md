@@ -3,7 +3,7 @@
 -->
 
 <a href="https://github.com/h1tran?tab=repositories">
-  <img src="images/Background.png" />
+  <img src="images/Background.jpg" />
 </a>
 
 ---
