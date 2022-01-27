@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/h98tran/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1mvijWwIgHSj4ig3a_SxVlUDTBZqpGeeE/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1DMtbMRL_XmqKSARNb0yfSrLvNY6EKSLL/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />
   </a>
 </p>
