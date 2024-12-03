@@ -18,7 +18,7 @@ If you're interested in the work that I do, have any questions, or just want to 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/h98tran/">
+  <a href="https://www.linkedin.com/in/h26tran/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://drive.google.com/file/d/191lHP2Nn3d9IMPkRx2n48D-0egDVKEEV/view?usp=sharing">
